@@ -1,7 +1,7 @@
-#### ✅The Install.inf file is not working!? Try the Install_Alt_Run-As-Admin.cmd file (Almost fix the issue)✅
+#### ✅Install the default cursor by 'Install.inf'✅
 
-`1` Install the default cursor by 'Install.inf'
+ `1` Once you have decided which cursor and color to choose, double click on the install.inf file in the selected cursor folder to confirm and start using it.
 
-`2` Read 'Read this.pdf' file to install Additional "Busy & Working" animated colourfull cursors.
+`2` Enjoy! 
 
-`3` Enjoy! 
+ 
