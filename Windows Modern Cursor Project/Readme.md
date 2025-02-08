@@ -4,4 +4,4 @@
 
 `2` Read 'Read this.pdf' file to install Additional "Busy & Working" animated colourfull cursors.
 
-`3` Enjoy!
+`3` Enjoy! 
