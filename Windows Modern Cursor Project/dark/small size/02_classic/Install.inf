@@ -1,6 +1,6 @@
 [Version]
 signature="$WINDOWS NT$"
-W11 Cursors Dark HDPI v2.2 classic (small) By Jepri Creations
+Windows Modern Cursor Projectclassic (small) 
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur, Scheme.Ani

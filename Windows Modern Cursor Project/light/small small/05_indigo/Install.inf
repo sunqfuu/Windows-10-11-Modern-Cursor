@@ -1,6 +1,6 @@
 [Version]
 signature="$WINDOWS NT$"
-W11 Cursors Light HDPI v2.2 indigo (small) By Jepri Creations
+Windows Modern Cursor Project indigo (small) 
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur, Scheme.Ani

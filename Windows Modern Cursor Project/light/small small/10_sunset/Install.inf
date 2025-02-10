@@ -1,6 +1,6 @@
 [Version]
 signature="$WINDOWS NT$"
-W11 Cursors Light HDPI v2.2 sunset (small) By Jepri Creations
+Windows Modern Cursor Project sunset (small) 
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur, Scheme.Ani
