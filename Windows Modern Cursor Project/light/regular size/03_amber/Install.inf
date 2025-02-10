@@ -62,7 +62,7 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 [Strings]
 CUR_DIR     = "Cursors\W11_light_v2.2\base"
 ANI_DIR     = "Cursors\W11_light_v2.2\amber"
-SCHEME_NAME = "W11 Cursors Light HDPI amber by Jepri Creations"
+SCHEME_NAME = "Windows Modern Cursor Project amber"
 pointer		= "pointer.cur"
 help		= "help.cur"
 working		= "working.ani"

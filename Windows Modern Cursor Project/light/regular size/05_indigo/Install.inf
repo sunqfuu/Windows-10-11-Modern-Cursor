@@ -62,10 +62,7 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 [Strings]
 CUR_DIR     = "Cursors\W11_light_v2.2\base"
 ANI_DIR     = "Cursors\W11_light_v2.2\indigo"
-SCHEME_NAME = "W11 Cursors Light HDPI indigo by Jepri Creations"
-pointer		= "pointer.cur"
-help		= "help.cur"
-working		= "working.ani"
+SCHEME_NAME = "Windows Modern Cursor Project indigo"
 busy		= "busy.ani"
 precision	= "precision.cur"
 hand		= "handwriting.cur"

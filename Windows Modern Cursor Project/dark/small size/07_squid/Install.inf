@@ -62,7 +62,7 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 [Strings]
 CUR_DIR     = "Cursors\W11_dark_v2.2_small\base"
 ANI_DIR     = "Cursors\W11_dark_v2.2_small\squid"
-SCHEME_NAME = "W11 Cursors Dark HDPI squid (small) by Jepri Creations"
+SCHEME_NAME = "Windows Modern Cursor Project squid (small)"
 pointer		= "pointer.cur"
 help		= "help.cur"
 working		= "working.ani"
