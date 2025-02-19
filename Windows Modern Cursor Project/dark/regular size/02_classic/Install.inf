@@ -1,6 +1,6 @@
 [Version]
 signature="$WINDOWS NT$"
-Windows Modern Cursor Project classic 
+Windows Modern Cursor Project Classic 
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur, Scheme.Ani
@@ -62,7 +62,7 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 [Strings]
 CUR_DIR     = "Cursors\W11_dark_v2.2\base"
 ANI_DIR     = "Cursors\W11_dark_v2.2\classic"
-SCHEME_NAME = "Windows Modern Cursor Project classic"
+SCHEME_NAME = "Windows Modern Cursor Project Classic"
 pointer		= "pointer.cur"
 help		= "help.cur"
 working		= "working.ani"
