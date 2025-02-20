@@ -1,7 +1,22 @@
-#### ✅Install the default cursor by 'Install.inf'✅
+# Windows 10/11 Modern Cursor
 
- `1` Once you have decided which cursor and color to choose, double click on the install.inf file in the selected cursor folder to confirm and start using it.
+A modern cursor pack for Windows 10 and 11, offering a sleek and minimalist design.
 
-`2` Enjoy! 
+## Installation
 
- 
+1. Choose your preferred cursor and color.
+2. Double-click the `install.inf` file located in the selected cursor folder.
+3. Confirm and start using the new cursor.
+
+## Features
+
+- Clean and modern design
+- Easy installation via `install.inf`
+
+## Releases
+
+- Version 1.0.2 (February 10, 2025)
+
+## License
+
+This project is open-source and free to use.
