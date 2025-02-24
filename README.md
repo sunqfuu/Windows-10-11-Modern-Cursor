@@ -1,7 +1,7 @@
 # 🌟 Windows 10/11 Modern Cursor  
 A sleek and modern cursor theme for Windows 10 and 11, enhancing the default look with a fresh, stylish design.
 
-![Preview](https://raw.githubusercontent.com/sunqfuu/Windows-10-11-Modern-Cursor/main/preview.png)  
+![Preview](https://raw.githubusercontent.com/sunqfuu/Windows-10-11-Modern-Cursor/refs/heads/main/Preview.png)  
 
 ## 🎯 Features  
 ✔️ Smooth and clean cursor design  
