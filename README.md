@@ -1,22 +1,34 @@
-# Windows 10/11 Modern Cursor
+# 🌟 Windows 10/11 Modern Cursor  
+A sleek and modern cursor theme for Windows 10 and 11, enhancing the default look with a fresh, stylish design.
 
-A modern cursor pack for Windows 10 and 11, offering a sleek and minimalist design.
+![Preview](https://raw.githubusercontent.com/sunqfuu/Windows-10-11-Modern-Cursor/main/preview.png)  
 
-## Installation
+## 🎯 Features  
+✔️ Smooth and clean cursor design  
+✔️ Optimized for high-resolution displays  
+✔️ Matches Windows 10/11 aesthetic  
+✔️ Easy installation  
 
-1. Choose your preferred cursor and color.
-2. Double-click the `install.inf` file located in the selected cursor folder.
-3. Confirm and start using the new cursor.
+## 🔧 Installation  
+1. **Download** the latest release from the [Releases](https://github.com/sunqfuu/Windows-10-11-Modern-Cursor/releases) page.  
+2. **Extract** the ZIP file anywhere on your computer.  
+3. **Right-click** on the `install.inf` file and select **Install**.  
+4. Open **Control Panel** → **Mouse Settings** → **Pointers** tab.  
+5. Select **Windows 10/11 Modern Cursor** from the dropdown and click **Apply**.  
 
-## Features
+## 🖼️ Preview  
+(Include preview images of the cursors if available)
 
-- Clean and modern design
-- Easy installation via `install.inf`
+## 🚀 Compatibility  
+✅ Windows 10  
+✅ Windows 11  
 
-## Releases
+## 🏆 Credits  
+Made with ❤️ by [@sunqfuu](https://github.com/sunqfuu)  
 
-- Version 1.0.2 (February 10, 2025)
+## 📜 License  
+This project is licensed under the [MIT License](LICENSE).  
 
-## License
+---
 
-This project is open-source and free to use.
+Enjoy your new cursor! ✨  
