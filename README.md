@@ -17,7 +17,14 @@ A sleek and modern cursor theme for Windows 10 and 11, enhancing the default loo
 5. Select **Windows 10/11 Modern Cursor** from the dropdown and click **Apply**.  
 
 ## 🖼️ Preview  
-(Include preview images of the cursors if available)
+Every cursor in both themes and sizes, plus every color:
+
+<p>
+  <img src="Windows%20Modern%20Cursor%20Project/Preview%20-%20Dark.png" width="49%" alt="All dark cursors, regular and small size, and every color">
+  <img src="Windows%20Modern%20Cursor%20Project/Preview%20-%20Light.png" width="49%" alt="All light cursors, regular and small size, and every color">
+</p>
+
+These images are also included in the download, inside the `Windows Modern Cursor Project` folder.
 
 ## 🚀 Compatibility  
 ✅ Windows 10  
